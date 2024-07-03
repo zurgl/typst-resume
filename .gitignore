@@ -1,0 +1,5 @@
+# compiled files
+./*.pdf
+archives
+./**/*.pdf
+idea.md

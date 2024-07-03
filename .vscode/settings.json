@@ -1,0 +1,18 @@
+{
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": false,
+    "editor.minimap.enabled": false,
+    "editor.wordWrapColumn": 180,
+    "css.lint.unknownAtRules": "ignore",
+    "editor.wordWrap": "wordWrapColumn",
+    "files.exclude": {
+      "*.pdf": true,
+      "resume/**/*.pdf": true,
+      "templates/**/*.pdf": true,
+      "README.md": true,
+      "justfile": false,
+      ".gitignore": false
+    },
+  }
