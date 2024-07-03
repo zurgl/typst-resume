@@ -1,5 +1,13 @@
 # compiled files
 ./*.pdf
 archives
-./**/*.pdf
 idea.md
+letter.pdf
+./resume/en/education.pdf
+./resume/en/professional.pdf
+./resume/en/projects.pdf
+./resume/en/skills.pdf
+./resume/fr/education.pdf
+./resume/fr/professional.pdf
+./resume/fr/projects.pdf
+./resume/fr/skills.pdf

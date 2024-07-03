@@ -27,8 +27,8 @@ $/*   -----------------------------  */$
     date: [2000 - 2003],
     location: [France],
     description: list(
-      [Classe de mathématiques Supérieures, Option science de l'ingénieur.],
-      [Classe de mathématiques Spéciales, Option informatique.]
+      [Classe de mathématiques Spéciales, option science de l'ingénieur.],
+      [Classe de mathématiques Supérieures, option informatique.],
     ),
     logo: "cpge.png",
 )

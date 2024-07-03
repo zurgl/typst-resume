@@ -8,10 +8,10 @@
     "css.lint.unknownAtRules": "ignore",
     "editor.wordWrap": "wordWrapColumn",
     "files.exclude": {
-      "*.pdf": true,
-      "resume/**/*.pdf": true,
-      "templates/**/*.pdf": true,
-      "README.md": true,
+      "*.pdf": false,
+      "resume/**/*.pdf": false,
+      "templates/**/*.pdf": false,
+      "README.md": false,
       "justfile": false,
       ".gitignore": false
     },
